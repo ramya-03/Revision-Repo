@@ -1,5 +1,6 @@
-This is the second file which i have edited via git repo ui portal
-need to commit this file in the portal, changes done in the local repo ...need to be mergered in main branc
+#My second script program
+#Read a run time variable and execute the file
 
-making a new change for second commit
-Changes done in devleop branch
+echo "Please enter your name :"
+read $1
+echo " Hi $1 welcome . Have a nice day !"
